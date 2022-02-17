@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DivineDines</string>
+    <string name="invalid_name">Must Fill</string>
+</resources>
